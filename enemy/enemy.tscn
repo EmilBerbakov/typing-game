@@ -8,8 +8,6 @@ script = ExtResource("1_0ohuh")
 [node name="EnemySprite" type="Sprite2D" parent="."]
 
 [node name="RichTextLabel" type="RichTextLabel" parent="."]
-offset_right = 40.0
-offset_bottom = 40.0
 bbcode_enabled = true
 fit_content = true
 autowrap_mode = 0
